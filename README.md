@@ -6,4 +6,3 @@ Desafios e projetos desenvolvidos durante as aulas da Digital Innovation One
    - Contador
    - Lista de afazeres
 
-Projeto: Game "O Resgate"
